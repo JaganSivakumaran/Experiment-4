@@ -11,15 +11,21 @@ To create a two screens , first screen will take one number input from user. Aft
 Latest Version Android Studio
 
 ## ALGORITHM:
-
+Step 1: Open Android Stdio and then click on File -> New -> New project.
+Step 2: Then type the Application name as HelloWorld and click Next.
+Step 3: Then select the Minimum SDK as shown below and click Next.
+Step 4: Then select the Empty Activity and click Next. Finally click Finish.
+Step 5: Design layout in activity_main.xml.
+Step 6: Display message give in MainActivity file.
+Step 7: Save and run the application.
 
 
 ## PROGRAM:
 ```
 /*
 Program to print the text “ExplicitIntent”.
-Developed by:
-Registeration Number :
+Developed by: Jagan S
+Registeration Number : 212221040061
 */
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
@@ -139,6 +145,7 @@ return factorial;
 ```
 
 ## OUTPUT
+
 ![image](https://github.com/suryacse05/Mobile-Application-Development/assets/134905062/e2a17fa6-ca2d-4a7b-86e5-902c91ebdfd8)
 
 ![image](https://github.com/JaganSivakumaran/Experiment-4/assets/134905062/5133c116-b75d-4e44-8f84-8c5f6a84017f)
@@ -155,9 +162,5 @@ Thus a Simple Android Application create a Explicit Intents using Android Studio
 
 
 
-
-
-## RESULT
-Thus a Simple Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
 
 
